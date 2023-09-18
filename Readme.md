@@ -6,9 +6,7 @@ Silahkan mengerjakan sesuai kemampuan Anda, Deadline 18 September 2023, jam 10
   Jawab:
 
   SELECT *
-
   FROM Orders
-
   WHERE (CustomerID = ...) AND (OrderDate = ...)
   
 - [?] Bagaimana Anda akan mengimplementasikan pengolahan data real-time dalam infrastruktur data? Berikan contoh kasus penggunaan di mana pengolahan data real-time sangat penting.
