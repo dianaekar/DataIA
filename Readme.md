@@ -4,6 +4,7 @@ Silahkan mengerjakan sesuai kemampuan Anda, Deadline 18 September 2023, jam 10
 
 - [?] Anda memiliki tabel "Orders" dengan kolom-kolom berikut: "OrderID," "CustomerID," "OrderDate," dan "TotalAmount." Tuliskan sebuah kueri SQL untuk menampilkan semua pesanan yang dibuat oleh pelanggan dengan ID tertentu pada tanggal tertentu.
 Jawab:
+
 SELECT *
 FROM Orders
 WHERE (CustomerID = ...) AND (OrderDate = ...)
