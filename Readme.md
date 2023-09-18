@@ -4,14 +4,13 @@ Silahkan mengerjakan sesuai kemampuan Anda, Deadline 18 September 2023, jam 10
 
 - [?] Anda memiliki tabel "Orders" dengan kolom-kolom berikut: "OrderID," "CustomerID," "OrderDate," dan "TotalAmount." Tuliskan sebuah kueri SQL untuk menampilkan semua pesanan yang dibuat oleh pelanggan dengan ID tertentu pada tanggal tertentu.
   Jawab:
-
   SELECT *
   FROM Orders
   WHERE (CustomerID = ...) AND (OrderDate = ...)
   
 - [?] Bagaimana Anda akan mengimplementasikan pengolahan data real-time dalam infrastruktur data? Berikan contoh kasus penggunaan di mana pengolahan data real-time sangat penting.
   Jawab:
-  Sampai saat ini, perkembangan teknologi bisa menampilkan data real time atau secara langsung dapat dimanfaatkan. Seperci contoh, adanya Google Analytics yang merupakan salah satu   
+  Sampai saat ini, perkembangan teknologi bisa menampilkan data real time atau secara langsung dapat dimanfaatkan. Seperci contoh, adanya Google Analytics yang merupakan salah satu 
   tools yang mendukung sistem real time data. Dalam dunia digital marketing, adanya tools ini tentunya sangat membantu para digital marketer bisa langsung melihat bagaimana interaksi 
   yang terjadi di dalam website (baik jumlah maupun asal pengunjung), tanpa perlu menunggu proses pengolahan data.
   
